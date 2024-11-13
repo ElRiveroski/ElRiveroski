@@ -9,7 +9,8 @@
 - With a solid background in Java and OOP, I’m aiming to deepen my understanding of systems programming and
 - software engineering principles.
 - 💞️ I’m open to collaborating on projects that offer passive work and help me gain new experience and skills. Whether
-- it's a small task or a larger initiative, I’m interested in working on things that challenge me and allow me to contribute meaningfully to the community.
+- it's a small task or a larger initiative, I’m interested in working on things that challenge me and allow me to contribute
+- meaningfully to the community.
 - 📫 Feel free to reach out to me directly on GitHub – I’m always happy to connect and discuss new opportunities!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I’m a returning student who has had a successful career in government administration,
