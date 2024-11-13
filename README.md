@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ElRiveroski
 - Welcome to my GitHub! I’m passionate about Artificial Intelligence and Machine Learning, and I’m currently
-- diving into C++ to expand my programming toolkit. I’ve got experience in Java and Object-Oriented programming, and I’m always eager to learn more.
+- diving into C++ to expand my programming toolkit. I’ve got experience in Java and Object-Oriented programming, and I’m always
+- eager to learn more.
 - 👀 I’m interested in Exploring the world of Artificial Intelligence and Machine Learning. I’m fascinated
 - by how these technologies are reshaping industries and opening up new possibilities. Whether it’s building
 - intelligent systems or diving into data, I’m excited to see what’s next!
