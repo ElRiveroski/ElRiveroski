@@ -1,4 +1,4 @@
-# Rolando Rivera | Software Engineering & Machine Learning
+# Rolando | Software Engineering & Machine Learning
 
 Computer Science student Software Engineering, Data Structures & Algorithms, Systems Programming, and Machine Learning foundations.
 
