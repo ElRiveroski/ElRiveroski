@@ -62,7 +62,7 @@ STL (vector, algorithm) • Git • GitHub • Linux • VS Code • GCC/G++ •
 
 ## Education
 
-**Bachelor of Science in Artificial Intelligence/Machine Learning
+**Bachelor of Science in Artificial Intelligence/Machine Learning ('28)
 
 **Relevant Coursework**
 
