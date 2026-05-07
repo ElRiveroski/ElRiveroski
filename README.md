@@ -67,6 +67,7 @@ STL (vector, algorithm) • Git • GitHub • Linux • VS Code • GCC/G++ •
 **Associate in Science, Computer Science ('25)
 
 **Bachelor of Interdisciplinary Studies (Justice Studies Emphasis) ('18)
+
 Developed strengths in:
 
 Analytical reasoning
