@@ -70,10 +70,10 @@ STL (vector, algorithm) • Git • GitHub • Linux • VS Code • GCC/G++ •
 
   Developed strengths in:
   
-    Analytical reasoning
-    Policy and systems analysis
-    Leadership and organizational communication
-    Structured decision-making in high-accountability environments
+  * Analytical reasoning
+  * Policy and systems analysis
+  * Leadership and organizational communication
+  * Structured decision-making in high-accountability environments
 
 **Relevant Coursework**
 
