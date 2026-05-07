@@ -1,6 +1,6 @@
 # Rolando | Software Engineering & Machine Learning
 
-Computer Science student | Software Engineering, Data Structures & Algorithms, Systems Programming, and Machine Learning foundations.
+Computer Science student focused on Software Engineering & ML | Prior NAU graduate | C++, Java, Python
 
 Transitioning from a leadership role in government operations into software engineering, with experience in analytical decision-making, structured problem solving, and high-reliability systems.
 
@@ -63,6 +63,16 @@ STL (vector, algorithm) • Git • GitHub • Linux • VS Code • GCC/G++ •
 ## Education
 
 **Bachelor of Science in Artificial Intelligence/Machine Learning ('28)
+
+**Associate in Science, Computer Science ('25)
+
+**Bachelor of Interdisciplinary Studies (Justice Studies Emphasis) ('18)
+Developed strengths in:
+
+Analytical reasoning
+Policy and systems analysis
+Leadership and organizational communication
+Structured decision-making in high-accountability environments
 
 **Relevant Coursework**
 
